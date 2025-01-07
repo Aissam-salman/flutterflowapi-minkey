@@ -1,0 +1,27 @@
+{
+  "name": "flutterflowapi-minkey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aissam-salman/flutterflowapi-minkey.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+     "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "stripe": "^17.4.0"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Aissam-salman/flutterflowapi-minkey/issues"
+  },
+  "homepage": "https://github.com/Aissam-salman/flutterflowapi-minkey#readme"
+}
